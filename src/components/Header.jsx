@@ -3,7 +3,6 @@ import { BiMenuAltRight } from "react-icons/bi";
 import { IoClose } from "react-icons/io5";
 
 import ButtonLink from "./shared/ButtonLink";
-import Logo from "../assets/logo.svg";
 
 import { navLinks } from "../utilities/constants";
 

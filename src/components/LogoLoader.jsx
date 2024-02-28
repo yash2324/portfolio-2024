@@ -1,5 +1,3 @@
-import Logo from "../assets/profile-pic.jpeg";
-
 const LogoLoader = () => {
   return (
     <div className="w-full h-full min-h-screen flex justify-center items-center bg-[#020c1b]">

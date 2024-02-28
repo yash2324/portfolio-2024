@@ -2,10 +2,6 @@ import { LuLinkedin, LuGithub } from "react-icons/lu";
 import { FaXTwitter } from "react-icons/fa6";
 import { SiLeetcode } from "react-icons/si";
 import { IoMdDocument } from "react-icons/io";
-import Snapgram from "../assets/project_snapgram.jpg";
-import CssGen from "../assets/project_css_gen.jpg";
-import Movix from "../assets/project_movix.jpg";
-
 export const navLinks = [
   {
     url: "/#",
