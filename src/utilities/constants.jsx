@@ -99,7 +99,7 @@ export const mainProjects = [
     title: "Meme Generator",
     description:
       "Made the front-end for a Crime Analysis System , using the past crimes data of India the model predicts the crime stats of a particular district for the upcoming years and also visualises the past stats of that district and area",
-    tags: ["React.js", "Tailwind CSS", "Express", "Acertinity UI", "Node"],
+    tags: ["React.js", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/yash2324/Meme-Generator-2",
     demo: "https://meme-generator-yg.netlify.app/",
     image:
