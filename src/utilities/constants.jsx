@@ -185,27 +185,25 @@ export const otherProjects = [
     demo: "https://gleaming-tanuki-a47424.netlify.app/",
   },
   {
-    title: "Notes App",
-    description:
-      "This is a basic notes app to locally make notes , I have made some changes to the already given codes on Scrimba",
-    tags: ["HTML", "CSS", "JavaScript", "React"],
-    github: "https://github.com/yash2324/Notes-App",
-    demo: "https://notes-app-yg.netlify.app/",
+    title: "Tic Tac Toe Game",
+    description: "A basic Tic Tac Toe Game",
+    tags: ["HTML", "CSS", "JavaScript"],
+    github: "https://github.com/yash2324",
+    demo: "https://tic-tac-toe-yg.netlify.app/",
   },
   {
-    title: "BlackJack Game",
+    title: "Parallax Animation",
     description:
-      "Welcome to the Blackjack Game repository! This simple and interactive website is designed to let users enjoy the classic card game of Blackjack right in their web browsers. Whether you're a seasoned pro or new to the world of card games, this project provides a fun way to test your luck and strategy.",
-    tags: ["HTML5", "CSS", "JavaScript"],
-    github: "https://github.com/yash2324/BlackJackJS",
-    demo: "https://blackjack-game-yg.netlify.app/",
+      "A Landing page with Parallax Animation , made using HTML and CSS",
+    tags: ["HTML5", "CSS"],
+    github: "https://github.com/yash2324/",
+    demo: "https://parallax-animation-yg.netlify.app/",
   },
   {
-    title: "Counter",
-    description:
-      "Welcome to the Subway Passenger Counter, a simple JavaScript-based website that helps you keep track of the number of passengers entering a subway station. This project provides a user-friendly interface for station attendants or operators to monitor and update passenger counts in real-time.",
-    tags: ["HTML5", "CSS", "JavaScript", "DOM"],
-    github: "https://github.com/yash2324/Counter",
-    demo: "https://gleaming-tanuki-a47424.netlify.app/",
+    title: "Coffee Card",
+    description: "A Coffee Card made using HTML and CSS",
+    tags: ["HTML5", "CSS"],
+    github: "https://github.com/yash2324/",
+    demo: "https://coffee-card-yg.netlify.app/",
   },
 ];
