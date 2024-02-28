@@ -153,35 +153,59 @@ export const otherProjects = [
     demo: "https://airbnb-clone-yg.netlify.app/",
   },
   {
-    title: "GeeksforGeeks Landing Page Clone",
+    title: "React Info",
     description:
-      "The clone closely resembles the original GeeksforGeeks landing page. This clone is designed to be responsive and adapts to different screen sizes.",
-    tags: ["HTML", "Vanilla CSS"],
-    github: "https://github.com/Tapesh-1308/GeeksforGeeks-Clone",
-    demo: "https://tapesh-1308.github.io/GeeksforGeeks-Clone/",
+      "A static Page listing all the information about React and its features.My first project to explore React.",
+    tags: ["React", "HTML", "Vanilla CSS", "JavaScript"],
+    github: "https://github.com/yash2324/React-proj-1",
+    demo: "https://react-proj1-yg.netlify.app/",
   },
   {
     title: "Notes App",
     description:
-      "Organize your notes easily with my straightforward Notes App. Built with HTML, CSS, and JavaScript,with the power of local storage and markdown parser.",
-    tags: ["HTML", "CSS", "JavaScript", "Markdown Parser"],
-    github: "https://github.com/Tapesh-1308/todo-app",
-    demo: "https://tapesh-1308.github.io/todo-app/",
+      "This is a basic notes app to locally make notes , I have made some changes to the already given codes on Scrimba",
+    tags: ["HTML", "CSS", "JavaScript", "React"],
+    github: "https://github.com/yash2324/Notes-App",
+    demo: "https://notes-app-yg.netlify.app/",
   },
   {
-    title: "Password Generator",
+    title: "BlackJack Game",
     description:
-      "Simple UI crafted using HTML, CSS, and JS, this tool offers multiple filters for customizing your passwords. Copy your generated passwords with a single click.",
+      "Welcome to the Blackjack Game repository! This simple and interactive website is designed to let users enjoy the classic card game of Blackjack right in their web browsers. Whether you're a seasoned pro or new to the world of card games, this project provides a fun way to test your luck and strategy.",
+    tags: ["HTML5", "CSS", "JavaScript"],
+    github: "https://github.com/yash2324/BlackJackJS",
+    demo: "https://blackjack-game-yg.netlify.app/",
+  },
+  {
+    title: "Counter",
+    description:
+      "Welcome to the Subway Passenger Counter, a simple JavaScript-based website that helps you keep track of the number of passengers entering a subway station. This project provides a user-friendly interface for station attendants or operators to monitor and update passenger counts in real-time.",
     tags: ["HTML5", "CSS", "JavaScript", "DOM"],
-    github: "https://github.com/Tapesh-1308/password-generator",
-    demo: "https://tapesh-1308.github.io/password-generator/",
+    github: "https://github.com/yash2324/Counter",
+    demo: "https://gleaming-tanuki-a47424.netlify.app/",
   },
   {
-    title: "Random Jokes",
+    title: "Notes App",
     description:
-      "Developed with HTML, CSS, and JavaScript, this web app pulls jokes dynamically from an API, ensuring a constant supply of humor.",
-    tags: ["HTML5", "CSS", "JavaScript", "DOM", "API"],
-    github: "https://github.com/Tapesh-1308/random-jokes-generator",
-    demo: "https://tapesh-1308.github.io/random-jokes-generator/",
+      "This is a basic notes app to locally make notes , I have made some changes to the already given codes on Scrimba",
+    tags: ["HTML", "CSS", "JavaScript", "React"],
+    github: "https://github.com/yash2324/Notes-App",
+    demo: "https://notes-app-yg.netlify.app/",
+  },
+  {
+    title: "BlackJack Game",
+    description:
+      "Welcome to the Blackjack Game repository! This simple and interactive website is designed to let users enjoy the classic card game of Blackjack right in their web browsers. Whether you're a seasoned pro or new to the world of card games, this project provides a fun way to test your luck and strategy.",
+    tags: ["HTML5", "CSS", "JavaScript"],
+    github: "https://github.com/yash2324/BlackJackJS",
+    demo: "https://blackjack-game-yg.netlify.app/",
+  },
+  {
+    title: "Counter",
+    description:
+      "Welcome to the Subway Passenger Counter, a simple JavaScript-based website that helps you keep track of the number of passengers entering a subway station. This project provides a user-friendly interface for station attendants or operators to monitor and update passenger counts in real-time.",
+    tags: ["HTML5", "CSS", "JavaScript", "DOM"],
+    github: "https://github.com/yash2324/Counter",
+    demo: "https://gleaming-tanuki-a47424.netlify.app/",
   },
 ];
