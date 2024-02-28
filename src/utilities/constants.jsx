@@ -70,74 +70,87 @@ export const social_links = [
 
 export const mainProjects = [
   {
-    title: "Snapgram",
+    title: "FlixAI",
     description:
-      "I built a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, JavaScript, and more.",
-    tags: ["React", "Appwrite", "React Query", "Infinite Scroll", "ShadCn"],
-    github: "https://github.com/Tapesh-1308/snapgram",
-    demo: "https://snapgram-omega.vercel.app/",
-    image: Snapgram,
+      "FlixAI, replicates an OTT platform with integrated ChatGPT for personalized movie recommendations. Developed with React, Firebase, and Redux, it ensures real-time updates, seamless authentication, and a mobile-friendly design.",
+    tags: ["React.js", "Tailwind CSS", "Firebase", "Redux", "OpenAI"],
+    github: "https://github.com/yash2324/FlixAI",
+    demo: "https://flix-ai.vercel.app/",
+    image:
+      "https://res.cloudinary.com/dljzvv5dh/image/upload/v1708365673/Portfolio/ijn4dxogasi8y2errjpn.png",
   },
   {
-    title: "CSS Generator",
+    title: "Swift Flavours",
     description:
-      "This web app is a powerful css generator developed using React and Context API. Users can generate shadows, gradients and glassmorphism like effects and get CSS code in one single click.",
-    tags: ["React", "Context API", "CSS Code", "Tailwind CSS"],
-    github: "https://github.com/Tapesh-1308/css-generator",
-    demo: "https://css-generator-by-tapesh.vercel.app/",
-    image: CssGen,
+      "I made a food ordering app's UI fetching realtime restaurant data from Swiggy's API. Also used Redux to build the cart functionality and make the site more efficient. Also, made the website very mobile friendly",
+    tags: ["React.js", "Tailwind CSS", "Redux", "Shimmer UI", "Jest"],
+    github: "https://github.com/yash2324/Swift-Flavours",
+    demo: "https://swift-flavours.vercel.app/",
+    image:
+      "https://res.cloudinary.com/dljzvv5dh/image/upload/v1707853866/Portfolio/Swiftflavours-screenshots/sip56zuqbp8pmyg4ica7.png",
   },
   {
-    title: "Movix",
+    title: "CSI Innowave",
     description:
-      "Movix app is one the best movies database application made using TMDB API. Infinte scrolling, skeleton loading and filters made this project really awesome. And SCSS is used for designing of this website.",
-    tags: ["React", "Redux", "API", "SCSS", "Infinte Scroll", "Filter Search"],
-    github: "https://github.com/Tapesh-1308/movix-by-tapesh",
-    demo: "https://movix-by-tapesh.vercel.app/",
-    image: Movix,
+      "Built the official website for CSI Innowave , Technical Society of my college.Leading a team and emphasis on Git Workflow, I developed the site using React, Tailwind and backend using Node , Express and Mongo DB.Also, used Cloudinary for image hosting.",
+    tags: ["React.js", "Tailwind CSS", "Express", "Acertinity UI", "Node"],
+    github: "https://github.com/yash2324/CSI-Innowave",
+    demo: "https://csiinnowave.vercel.app/",
+    image:
+      "https://res.cloudinary.com/dljzvv5dh/image/upload/v1709126018/Portfolio/zvc0uoeobifdbknwov7p.png",
+  },
+  {
+    title: "Meme Generator",
+    description:
+      "Made the front-end for a Crime Analysis System , using the past crimes data of India the model predicts the crime stats of a particular district for the upcoming years and also visualises the past stats of that district and area",
+    tags: ["React.js", "Tailwind CSS", "Express", "Acertinity UI", "Node"],
+    github: "https://github.com/yash2324/Meme-Generator-2",
+    demo: "https://meme-generator-yg.netlify.app/",
+    image:
+      "https://res.cloudinary.com/dljzvv5dh/image/upload/v1708366940/Portfolio/Swiftflavours-screenshots/dron8hyjrqtbpjtdj22g.png",
   },
 ];
 
 export const otherProjects = [
   {
-    title: "Youtube CLone",
+    title: "Smart Secure",
     description:
-      "Crafted using React's Context API and Rapid API, my YouTube Clone boasts a true-to-form UI. Infinite scrolling feature ensures an immersive content.",
-    tags: ["React", "RapidAPI", "Infinite Scroll", "Context", "Tailwind"],
-    github: "https://github.com/Tapesh-1308/tapesh-youtube-clone",
-    demo: "https://tapesh-youtube-clone.vercel.app/",
+      "Made the front-end for a Crime Analysis System , using the past crimes data of India the model predicts the crime stats of a particular district for the upcoming years and also visualises the past stats of that district and area",
+    tags: ["React.js", "Tailwind CSS", "Express", "Acertinity UI", "Node"],
+    github: "https://github.com/yash2324/CSI-Innowave",
+    demo: "https://csiinnowave.vercel.app/",
   },
   {
-    title: "Dynamic Currency Converter",
+    title: "Tenzies",
     description:
-      "Seamless currency conversion using my React-powered tool. Switch b/w currencies real-time data from a reliable API.",
-    tags: ["React", "API", "Tailwind"],
-    github: "https://github.com/Tapesh-1308/currency-converter",
-    demo: "https://currency-converter-by-tapesh.vercel.app/",
+      "I made a basic tenzies Game , using React made the game more fun by adding confetti, Also used hooks to manage the state of the game",
+    tags: ["React.js", "JavaScript", "HTML", "CSS"],
+    github: "https://github.com/yash2324/Tenzies",
+    demo: "https://tenzies-game-yg.netlify.app/",
   },
   {
-    title: "Github Profile Previewer",
+    title: "Chat SAT",
     description:
-      "Crafted using HTML, CSS, and JavaScript DOM, it fetches your GitHub data via API, presenting a clean showcase of repositories.",
-    tags: ["HTML", "CSS", "JavaScript", "Github API"],
-    github: "https://github.com/Tapesh-1308/github-profile-previewer",
-    demo: "https://tapesh-1308.github.io/github-profile-previewer/",
+      "A basic frontend of a SAT prep Application built using Next.js,Typescript,Tailwind CSS.",
+    tags: ["Next.js", "Tailwind CSS", "TypeScript"],
+    github: "https://github.com/yash2324/Chat-SAT",
+    demo: "https://chat-sat-yg.vercel.app/",
   },
   {
-    title: "Simple Todo App",
+    title: "Save Tab Chrome Extension",
     description:
-      "Organize your tasks effortlessly with my ToDo app. Built with HTML, CSS, and JavaScript, this tool lets you add, delete, and mark tasks as done.",
+      "An extension to save all the links you want to bookmark but in an ordered manner.The link attached is of how the extension would look to actually try it kindly download and deploy the project.",
     tags: ["HTML", "CSS", "JavaScript", "Local Storage"],
-    github: "https://github.com/Tapesh-1308/todo-app",
-    demo: "https://tapesh-1308.github.io/todo-app/",
+    github: "https://github.com/yash2324/save-tab-chrome-extension",
+    demo: "https://leadstracker-chrome-extension.netlify.app/",
   },
   {
-    title: "Scientific Calculator",
+    title: "AirBnb Landing Page",
     description:
-      "This calculator provides a lifelike feel, complete with a responsive design for various devices. Switch effortlessly between light and dark modes.",
-    tags: ["HTML", "CSS", "JavaScript", "DOM"],
-    github: "https://github.com/Tapesh-1308/super-calculator",
-    demo: "https://tapesh-1308.github.io/super-calculator/",
+      "A basic Landing page to display services offered at an AirBnb built while learning React from Scrimba",
+    tags: ["React", "HTML", "CSS", "JavaScript"],
+    github: "https://github.com/yash2324/Airbnb-clone-scrimba",
+    demo: "https://airbnb-clone-yg.netlify.app/",
   },
   {
     title: "GeeksforGeeks Landing Page Clone",
