@@ -34,7 +34,7 @@ const Header = () => {
             onClick={toTop}
           >
             <img
-              src={Logo}
+              src="https://res.cloudinary.com/dljzvv5dh/image/upload/v1709129503/Portfolio/ydrhy6ko8qbiclqxykfi.png"
               alt="TD"
               className="w-full h-full transition-all hover:drop-shadow-buttonShadow"
             />
@@ -65,7 +65,7 @@ const Header = () => {
             </ol>
             <ButtonLink
               content="Resume"
-              url="https://drive.google.com/file/d/11nsro2l3Z09Cdg36RCH_BxD11RTFGoH7/view"
+              url="https://drive.google.com/file/d/1w_AY_fYKSz_Dp9UXZb-nc5JpUIy6cLBF/view"
               classNameBox="ml-[15px]"
             />
           </div>
