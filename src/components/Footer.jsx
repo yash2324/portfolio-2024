@@ -28,7 +28,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           className="p-[10px] hover:text-themeBlue transition-all duration-200"
         >
-          <div>© Yash Gupta</div>
+          <div> Yash Gupta</div>
         </a>
       </div>
     </footer>
