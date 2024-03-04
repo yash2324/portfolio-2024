@@ -42,7 +42,7 @@ export const social_links = [
     name: "Github",
   },
   {
-    url: "https://www.linkedin.com/in/yash-gupta-012769206/",
+    url: "https://www.linkedin.com/in/thisisyashgupta/",
     icon: <LuLinkedin className="w-[22px] h-[22px]" />,
     name: "Linkedin",
   },
