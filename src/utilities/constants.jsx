@@ -91,7 +91,7 @@ export const mainProjects = [
       "Built the official website for CSI Innowave , Technical Society of my college.Leading a team and emphasis on Git Workflow, I developed the site using React, Tailwind and backend using Node , Express and Mongo DB.Also, used Cloudinary for image hosting.",
     tags: ["React.js", "Tailwind CSS", "Express", "Acertinity UI", "Node"],
     github: "https://github.com/yash2324/CSI-Innowave",
-    demo: "https://csiinnowave.vercel.app/",
+    demo: "https://csiinnowave.com",
     image:
       "https://res.cloudinary.com/dljzvv5dh/image/upload/v1709126018/Portfolio/zvc0uoeobifdbknwov7p.png",
   },
