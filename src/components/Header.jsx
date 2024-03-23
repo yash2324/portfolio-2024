@@ -122,7 +122,7 @@ const Header = () => {
           </ol>
           <ButtonLink
             content="Resume"
-            url="https://drive.google.com/file/d/11nsro2l3Z09Cdg36RCH_BxD11RTFGoH7/view"
+            url="https://drive.google.com/file/d/1w_AY_fYKSz_Dp9UXZb-nc5JpUIy6cLBF/view"
             classNameBox="mt-[15px]"
           />
         </nav>
