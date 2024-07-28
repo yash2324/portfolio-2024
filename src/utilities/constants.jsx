@@ -57,18 +57,48 @@ export const social_links = [
     name: "Resume",
   },
 
-  // {
-  //   url: "https://leetcode.com/yg232004/",
-  //   icon: <SiLeetcode className="w-[22px] h-[22px]" />,
-  //   name: "Leetcode",
-  // },
+  {
+    url: "https://leetcode.com/yash2324/",
+    icon: <SiLeetcode className="w-[22px] h-[22px]" />,
+    name: "Leetcode",
+  },
 ];
 
 export const mainProjects = [
   {
+    title: "BizGenAI",
+    description:
+      "A full-stack proposal generation application for freelancers and businesses using Next.js, Prisma, and MongoDB. It allows users to generate professional business proposals with ease.",
+    tags: ["Next.js", "Prisma", "MongoDB", "Tailwind CSS"],
+    github: "https://github.com/yash2324/proposal-gen",
+    demo: "https://proposal-gen-beta.vercel.app/",
+    image:
+      "https://res.cloudinary.com/dljzvv5dh/image/upload/v1722127348/Portfolio/mvmvr9ueqceqlm2ix9pm.png",
+  },
+  {
+    title: "Innov8Tech",
+    description:
+      "A blog application using Next.js, PostgreSQL, and Prisma. Innov8Tech allows users to post, edit, and delete blog posts, providing a seamless blogging experience.",
+    tags: ["Next.js", "PostgreSQL", "Prisma", "Tailwind CSS"],
+    github: "https://github.com/yash2324/Innov8tech",
+    demo: "https://innov8tech.vercel.app/",
+    image:
+      "https://res.cloudinary.com/dljzvv5dh/image/upload/v1722127347/Portfolio/uu3f1ekvauduezlibjml.png",
+  },
+  {
+    title: "Quizlo",
+    description:
+      "A full-stack quiz application serving over 250 active users. Developed using React, Node.js, and MongoDB, it offers real-time quizzes and interactive gameplay.",
+    tags: ["React.js", "Node.js", "MongoDB", "Tailwind CSS"],
+    github: "https://github.com/yash2324/quizlo",
+    demo: "https://quiz.csiinnowave.com/",
+    image:
+      "https://res.cloudinary.com/dljzvv5dh/image/upload/v1722127254/Portfolio/mndngvb4abjvezqhln9e.png",
+  },
+  {
     title: "FlixAI",
     description:
-      "FlixAI, replicates an OTT platform with integrated ChatGPT for personalized movie recommendations. Developed with React, Firebase, and Redux, it ensures real-time updates, seamless authentication, and a mobile-friendly design.",
+      "FlixAI replicates an OTT platform with integrated ChatGPT for personalized movie recommendations. Developed with React, Firebase, and Redux, it ensures real-time updates, seamless authentication, and a mobile-friendly design.",
     tags: ["React.js", "Tailwind CSS", "Firebase", "Redux", "OpenAI"],
     github: "https://github.com/yash2324/FlixAI",
     demo: "https://flix-ai.vercel.app/",
@@ -78,7 +108,7 @@ export const mainProjects = [
   {
     title: "Swift Flavours",
     description:
-      "I made a food ordering app's UI fetching realtime restaurant data from Swiggy's API. Also used Redux to build the cart functionality and make the site more efficient. Also, made the website very mobile friendly",
+      "I made a food ordering app's UI fetching real-time restaurant data from Swiggy's API. Also used Redux to build the cart functionality and make the site more efficient. Also, made the website very mobile friendly.",
     tags: ["React.js", "Tailwind CSS", "Redux", "Shimmer UI", "Jest"],
     github: "https://github.com/yash2324/Swift-Flavours",
     demo: "https://swift-flavours.vercel.app/",
@@ -88,26 +118,26 @@ export const mainProjects = [
   {
     title: "CSI Innowave",
     description:
-      "Built the official website for CSI Innowave , Technical Society of my college.Leading a team and emphasis on Git Workflow, I developed the site using React, Tailwind and backend using Node , Express and Mongo DB.Also, used Cloudinary for image hosting.",
-    tags: ["React.js", "Tailwind CSS", "Express", "Acertinity UI", "Node"],
+      "Built the official website for CSI Innowave, Technical Society of my college. Leading a team and emphasizing Git Workflow, I developed the site using React, Tailwind and backend using Node, Express, and MongoDB. Also, used Cloudinary for image hosting.",
+    tags: ["React.js", "Tailwind CSS", "Express", "Acertinity UI"],
     github: "https://github.com/yash2324/CSI-Innowave",
     demo: "https://csiinnowave.com",
     image:
-      "https://res.cloudinary.com/dljzvv5dh/image/upload/v1709126018/Portfolio/zvc0uoeobifdbknwov7p.png",
+      "https://res.cloudinary.com/dljzvv5dh/image/upload/v1722127348/Portfolio/jenz6xuqaiq3to3nqocz.png",
   },
+];
+
+export const otherProjects = [
   {
     title: "Meme Generator",
     description:
-      "Made the front-end for a Crime Analysis System , using the past crimes data of India the model predicts the crime stats of a particular district for the upcoming years and also visualises the past stats of that district and area",
+      "Made the front-end for a Crime Analysis System, using the past crimes data of India the model predicts the crime stats of a particular district for the upcoming years and also visualizes the past stats of that district and area.",
     tags: ["React.js", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/yash2324/Meme-Generator-2",
     demo: "https://meme-generator-yg.netlify.app/",
     image:
       "https://res.cloudinary.com/dljzvv5dh/image/upload/v1708366940/Portfolio/Swiftflavours-screenshots/dron8hyjrqtbpjtdj22g.png",
   },
-];
-
-export const otherProjects = [
   {
     title: "Smart Secure",
     description:
