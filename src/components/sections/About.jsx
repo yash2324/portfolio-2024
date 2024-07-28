@@ -53,6 +53,7 @@ const About = () => {
             interfaces through writing clean and optimized code and utilizing
             cutting-edge development tools and techniques.
           </p>
+          <p className="mb-3">Presently a FrontEnd intern @ Invsto.com</p>
           <p className="mb-3">
             I possess a keen interest in leveraging Data Structures and
             Algorithms using <span className="text-themeBlue">Java</span>. I
