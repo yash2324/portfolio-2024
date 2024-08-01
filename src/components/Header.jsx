@@ -64,7 +64,7 @@ const Header = () => {
             </ol>
             <ButtonLink
               content="Resume"
-              url="https://drive.google.com/file/d/1w_AY_fYKSz_Dp9UXZb-nc5JpUIy6cLBF/view"
+              url="/resume"
               classNameBox="ml-[15px]"
             />
           </div>
@@ -120,11 +120,7 @@ const Header = () => {
                 </motion.li>
               ))}
           </ol>
-          <ButtonLink
-            content="Resume"
-            url="https://drive.google.com/file/d/1w_AY_fYKSz_Dp9UXZb-nc5JpUIy6cLBF/view"
-            classNameBox="mt-[15px]"
-          />
+          <ButtonLink content="Resume" url="/resume" classNameBox="mt-[15px]" />
         </nav>
       </div>
     </>
