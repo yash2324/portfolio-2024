@@ -48,11 +48,11 @@ const Hero = () => {
             exceptional web apps from New Delhi, India 📍
           </motion.p>
           <ButtonLink
-            content="Get In Touch!"
-            url="/#contact"
+            content="Checkout My Resume!"
+            url="/resume"
             classNameBox="mt-[50px]"
             classNameBtn="px-[1.75rem] py-[1rem] text-[14px] tracking-wide"
-            blank={false}
+            blank={true}
           />
         </div>
         <motion.div
