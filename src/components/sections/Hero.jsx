@@ -49,7 +49,7 @@ const Hero = () => {
           </motion.p>
           <ButtonLink
             content="Checkout My Resume!"
-            url="/resume"
+            url="https://docs.google.com/document/d/1y01YQ-luz50oUWdPYHWLLUC70KulS7nU600p3KfAO8Y/edit?usp=sharing"
             classNameBox="mt-[50px]"
             classNameBtn="px-[1.75rem] py-[1rem] text-[14px] tracking-wide"
             blank={true}

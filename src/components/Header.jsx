@@ -64,7 +64,7 @@ const Header = () => {
             </ol>
             <ButtonLink
               content="Resume"
-              url="/resume"
+              url="https://docs.google.com/document/d/1y01YQ-luz50oUWdPYHWLLUC70KulS7nU600p3KfAO8Y/edit?usp=sharing"
               classNameBox="ml-[15px]"
             />
           </div>

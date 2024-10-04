@@ -52,7 +52,7 @@ export const social_links = [
     name: "Twitter",
   },
   {
-    url: "/resume",
+    url: "https://docs.google.com/document/d/1y01YQ-luz50oUWdPYHWLLUC70KulS7nU600p3KfAO8Y/edit?usp=sharing",
     icon: <IoMdDocument className="w-[22px] h-[22px]" />,
     name: "Resume",
   },
